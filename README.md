@@ -1,7 +1,11 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&center=true&vCenter=true&lines=Hey%2C+I'm+Atom!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Discord Presence](https://lanyard.cnrad.dev/api/289100850285117460)](https://discord.com/users/1153617490769879100)
+
+- Discord - [Atom.](https://discord.com/users/1153617490769879100)
+- Instagram - [abh1navrao](https://instagram.com/abh1navrao)
+
 ## I'm ATOM</h1> 
 ```
-My Age : 16,
+My Age : 17,
 
 Learn more about me:
 ```
