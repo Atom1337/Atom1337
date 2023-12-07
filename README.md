@@ -31,7 +31,7 @@ class Coding(Atom):
         self.specialities = ["Coding"]     
 
     def projects(self):
-        self.current = "https://instagram.com/_abhinav7870" 
+        self.current = "https://instagram.com/abh1navrao" 
         self.discord = ["Atom.#3989"]
         self.spotify = "Abhinav..!!"
         self.hcaptcha = "Bypass"
@@ -57,7 +57,7 @@ class Myself(Person):
         self.fun_fact = "I am dead"
 
     def contact(self):
-        self.discord = "Atom.#4353"
+        self.discord = "Atom.#3989"
         self.server = "NA"
         self.freelancing = self.discord
         self.collaborations = self.discord
