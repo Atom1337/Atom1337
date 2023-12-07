@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/289100850285117460)](https://discord.com/users/1153617490769879100)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1153617490769879100)](https://discord.com/users/1153617490769879100)
 
 - Discord - [Atom.](https://discord.com/users/1153617490769879100)
 - Instagram - [abh1navrao](https://instagram.com/abh1navrao)
